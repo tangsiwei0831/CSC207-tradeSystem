@@ -1,0 +1,39 @@
+Lecture Notes for Week 1
+========================
+
+Fill in your answers based on the Week 1 lecture material and submit to MarkUs by Tuesday May 12 for participation marks.
+
+    1. What does efficiency mean when we're talking about OOP design?
+It means human efficiency, that is, we need the program to be easy-to-read, hard-to-break, easy to be extended, testable and maintainable.
+
+    2. What is a "constructor", a "class variable", and a "method"?
+Constructor is a block of code that initializes the newly created instance of a class.
+Class variable is a variable that declared with the static keyword in a class, but outside a method/constructor.
+Method is a block of code that performs certain functionality when it is called.
+
+    3. Give two differences between primitive and reference variables.
+The Java variable can hold primitive type value directly inside, but can only hold a reference /an identifier to the reference type value.
+The primitive variables all begin with a lowercase letter, while reference variables begin with an uppercase letter.
+
+    4. What does it mean for Class A to be dependent on Class B?
+If Class A uses a method from Class B, or creates and instance of Class B, then A is dependent on B.
+
+    5. Give preliminary definitions for "Object Oriented Design", "Efficient Design", "Encapsulation", "Coupling", and "Cohesion".
+Object Oriented Design is the process of building a system of interacting objects.
+The process includes abstraction, encapsulation, inheritance, and polymorphism.
+Efficient Design means that the program is easy-to-read, hard-to-break, easy to be extended, testable and maintainable.
+Encapsulation is the process of binding together data with methods that manipulate that data, and hiding the internal representation.
+Coupling describes how much a class is interact with another class. Low coupling is favored.
+Cohesion describes how much the features of class methods belong together, and work to achieve the same function.
+
+    6. "Low coupling and high cohesion" means:
+Making changes to one class would not lead to changes in other classes, and all the methods in one class have strongly-related functionality.
+
+    7. What is a Version Control System and why is it useful?
+Version Control System is a tool that help team collaborate and manage changes to code project.
+It allows team members to work on the code flexibly, avoiding repeated file download and mistakes.
+
+    8. What are three things I can do make sure that I am not accused of cheating in this course?
+1. Do not post anything from this course publicly, especially to Github.
+2. Try to explain the answers in detail and in my own words.
+3. Do not copy or take credit for someone else's work.
