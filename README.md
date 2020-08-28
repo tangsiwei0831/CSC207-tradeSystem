@@ -1,4 +1,4 @@
-# CSC207 Project
+# tradeSystem
 
 This is a program that allows users to trade different items with each other.
  
