@@ -46,11 +46,11 @@ For better testing all the available functionality, you need to:
 
 | Name | Divide of work |
 |:------:|:---------------|
-|**Yuhan Zheng (Ensouled)**|AdminUser & GUI, Mandatory Extension 1|
+|**Yuhan Zheng (Ensouled)**|GUI, Mandatory Extension 1|
 |**Yiyun Ding (Amy)**|Trade & GUI, Inventory & GUI, Mandatory Extension 2|
 |**Changyan Xu (Rella)**|Meeting System & GUI, Mandatory Extension 3|
 |**Yuxin Yang (Amber)**|Point System, Mandatory Extension 4|
-|**Siwei Tang**|ClientUser, Mandatory Extension 5|
+|**Siwei Tang**|AdminUser & ClientUser, Mandatory Extension 5|
 
 
 # Illustrations
